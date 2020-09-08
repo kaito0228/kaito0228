@@ -1,5 +1,10 @@
 ### Hi there 👋
+[![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![](https://komarev.com/ghpvc/?username=kaito0228&color=green)
 <!--
 **kaito0228/kaito0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
