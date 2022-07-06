@@ -5,6 +5,8 @@
 [![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=kaito0228&color=green)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 **kaito0228/kaito0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
