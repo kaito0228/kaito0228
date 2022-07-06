@@ -5,6 +5,9 @@
 [![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=kaito0228&color=green)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l59ake7vyal8ljqh05ol" alt="trackgit-views" />
+</a>
 
 ### snake
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake.svg#gh-light-mode-only)
