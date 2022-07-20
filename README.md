@@ -6,8 +6,12 @@
 
 ![](https://komarev.com/ghpvc/?username=kaito0228&color=green)
 <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l59ake7vyal8ljqh05ol" alt="trackgit-views" />
+  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l59ake7vyal8ljqh05ol" alt="trackgit-views" />
 </a>
+<a href="http://twitter.com/kaito2280">
+  <img height="20" src="https://img.shields.io/twitter/follow/kaito2280?label=Twitter&logo=twitter&style=flat" />
+</a>
+
 
 ## Resume/CV
 [JA](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README.md)
