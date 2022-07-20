@@ -10,8 +10,8 @@
 </a>
 
 ## Resume/CV
-[ja](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README.md)
-[en](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README-en.md)
+[JA](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README.md)
+[EN](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README-en.md)
 
 ## snake
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake.svg#gh-light-mode-only)
