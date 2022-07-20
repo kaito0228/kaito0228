@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 [![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -9,11 +9,19 @@
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l59ake7vyal8ljqh05ol" alt="trackgit-views" />
 </a>
 
-### snake
+## Resume/CV
+[ja](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README.md)
+[en](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README-en.md)
+
+## snake
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-### music
+## music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaito2280&width=800&unique=true)
+
+
+
+
 
 <!--
 **kaito0228/kaito0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
