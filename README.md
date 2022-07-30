@@ -17,6 +17,8 @@
 [JA](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README.md)
 [EN](https://github.com/kaito0228/Curriculum-Vitae/blob/master/README-en.md)
 
+[Lapras](https://lapras.com/public/kaito)
+
 ## snake
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kaito0228/kaito0228/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
