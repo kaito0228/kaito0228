@@ -5,12 +5,8 @@
 [![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=kaito0228&color=green)
-<a href="https://trackgit.com">
-  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l59ake7vyal8ljqh05ol" alt="trackgit-views" />
-</a>
-<a href="http://twitter.com/kaito2280">
-  <img height="20" src="https://img.shields.io/twitter/follow/kaito2280?label=Twitter&logo=twitter&style=flat" />
-</a>
+<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l59ake7vyal8ljqh05ol" alt="trackgit-views" /></a>
+<a href="http://twitter.com/kaito2280"><img height="20" src="https://img.shields.io/twitter/follow/kaito2280?label=Twitter&logo=twitter&style=flat" alt="Twitter follow" /></a>
 
 
 ## Resume/CV
