@@ -13,46 +13,21 @@ Software engineer based in Japan, writing mainly **Ruby** and **TypeScript**.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby,ts,js,html&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ruby,ts,js,html&theme=light" alt="Ruby, TypeScript, JavaScript, HTML" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby%2Cts%2Cjs%2Chtml&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ruby%2Cts%2Cjs%2Chtml&theme=light" alt="Ruby, TypeScript, JavaScript, HTML" />
   </picture>
 </p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-      <img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="700" />
-    </picture>
-  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/0-profile-details.svg" /><img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="700" /></picture></a>
   <br />
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-      <img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
-    </picture>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-      <img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
-    </picture>
-  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" /><img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repository" width="49%" /></picture></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" /><img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%" /></picture></a>
   <br />
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/3-stats.svg" />
-      <img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
-    </picture>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
-      <img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/4-productive-time.svg" alt="Commits per time of day" width="49%" />
-    </picture>
-  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/3-stats.svg" /><img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" /></picture></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><img src="https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/github/4-productive-time.svg" alt="Commits per time of day" width="49%" /></picture></a>
 </div>
 
 ## 🎵 Recently Played
@@ -68,6 +43,6 @@ Software engineer based in Japan, writing mainly **Ruby** and **TypeScript**.
   </picture>
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=kaito0228&color=green" alt="Profile views" />
 </p>
