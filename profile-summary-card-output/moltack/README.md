@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/moltack/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kaito0228/kaito0228/master/profile-summary-card-output/moltack/4-productive-time.svg)
-```
-
-    
